@@ -1,1 +1,1 @@
-XML writer - how to update wml files
+XML writer - how to update xml files
